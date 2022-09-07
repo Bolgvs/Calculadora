@@ -1,3 +1,3 @@
 # Calculadora  
 
-https://bolgvs.github.io/Calculadora/app.component
+https://bolgvs.github.io/Calculadora/src/app/app.component
